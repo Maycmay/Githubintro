@@ -1,0 +1,7 @@
+shopping:
+
+bread
+juice
+oranges
+dove soap
+spray
